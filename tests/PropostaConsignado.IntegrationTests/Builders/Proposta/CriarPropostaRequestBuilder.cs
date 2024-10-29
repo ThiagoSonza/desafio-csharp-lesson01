@@ -1,7 +1,7 @@
 using Bogus;
 using PropostaConsignado.Api.Dominio.Proposta.Aplicacao.Requests;
 
-namespace PropostaConsignado.UnitTests.Builders
+namespace PropostaConsignado.IntegrationTests.Builders.Proposta
 {
     public class CriarPropostaRequestBuilder : Faker<CriarPropostaRequest>
     {

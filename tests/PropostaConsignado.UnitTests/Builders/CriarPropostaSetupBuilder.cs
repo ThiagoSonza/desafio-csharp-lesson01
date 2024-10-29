@@ -1,7 +1,6 @@
 using CSharpFunctionalExtensions;
 using PropostaConsignado.Api.Dominio.Proposta.Aplicacao;
 using PropostaConsignado.Api.Dominio.Proposta.Aplicacao.Requests;
-using PropostaConsignado.UnitTests.Builders.Proposta;
 
 namespace PropostaConsignado.UnitTests.Builders
 {
